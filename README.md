@@ -109,6 +109,6 @@ The classification goal is to predict if the client will subscribe a term deposi
    17. y : has the client subscribed a term deposit? (binary: “yes”,“no”)
 
 ## Dataset Source :
-     https://www.kaggle.com/janiobachmann/bank-marketing-dataset
+  https://www.kaggle.com/janiobachmann/bank-marketing-dataset
 
-      https://archive.ics.uci.edu/ml/datasets/bank+marketing
+  https://archive.ics.uci.edu/ml/datasets/bank+marketing
