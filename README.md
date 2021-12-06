@@ -1,6 +1,6 @@
 # Bank-Marketing-Dataset
 ### Bank Customer Acquisition Analysis
-
+![](https://github.com/ShivankUdayawal/Bank-Marketing-Dataset/blob/main/Data%20Visualization/01.jpg)
 
 ## Introduction :
 A Portuguese bank had conducted a telemarketing campaign for a term deposit product somewhere around late 2010. A term deposit is very similar to a fixed deposit, where we deposit money for a fixed period of time.
